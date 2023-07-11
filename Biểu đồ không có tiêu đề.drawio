@@ -1,14 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T10:30:05.965Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-v2cKCs-e4d6yYUH6Jiv" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T10:33:53.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CkhHS-E_JnNLLkE62-L9" version="21.6.1" type="github">
   <diagram name="Trang-1" id="L-F-mDsavNvcq75mPaBo">
-    <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xJXtqdVev2pEfxQAjXFe-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="110" width="120" height="80" as="geometry" />
+        <mxCell id="xJXtqdVev2pEfxQAjXFe-1" value="&lt;b&gt;ĐẶT VÉ&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="100" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xJXtqdVev2pEfxQAjXFe-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="230" width="120" height="80" as="geometry" />
+        <mxCell id="xJXtqdVev2pEfxQAjXFe-2" value="&lt;b&gt;ĐĂNG NHẬP&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xJXtqdVev2pEfxQAjXFe-3" value="&lt;b&gt;ĐĂNG KÍ&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xJXtqdVev2pEfxQAjXFe-5" value="&lt;b&gt;THANH TOÁN&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xJXtqdVev2pEfxQAjXFe-6" value="&lt;b&gt;XEM KHUYẾN MÃI&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xJXtqdVev2pEfxQAjXFe-7" value="&lt;b&gt;THAY ĐỔI THÔNG TIN&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xJXtqdVev2pEfxQAjXFe-8" value="&lt;b&gt;XEM LỊCH CHIẾU&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xJXtqdVev2pEfxQAjXFe-9" value="&lt;b&gt;CHAT&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xJXtqdVev2pEfxQAjXFe-10" value="&lt;b&gt;TÍCH ĐIỂM&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xJXtqdVev2pEfxQAjXFe-11" value="&lt;b&gt;QUẢN LÝ ĐƠN MUA&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xJXtqdVev2pEfxQAjXFe-12" value="&lt;b&gt;UPDATE THÔNG TIN VỀ PHIM, KHUYẾN MÃI&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xJXtqdVev2pEfxQAjXFe-13" value="&lt;b&gt;CHAT&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="590" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
